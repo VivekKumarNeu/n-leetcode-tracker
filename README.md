@@ -1,6 +1,7 @@
 # 🎯 N-LeetCode Tracker
 
 A fun Python CLI tool to track your progress through the NeetCode 150 problems with spaced repetition and intelligent question selection.
+All credits to https://neetcode.io/
 
 ## Features
 
@@ -11,6 +12,7 @@ A fun Python CLI tool to track your progress through the NeetCode 150 problems w
 - **Statistics** - View completion stats by category, difficulty, and more
 - **Search & Filter** - Find problems by category, difficulty, or keyword
 
+![N-LeetCode Tracker Demo](images/demo.gif)
 
 ![LeetCode Tracker Interactive mode](images/1.png)
 ![LeetCode Tracker Practice](images/2.png)
